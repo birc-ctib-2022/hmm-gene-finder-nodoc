@@ -1,7 +1,7 @@
 """Module for reading files in FASTA format."""
 
 
-def read_fasta_file(filename: str) -> dict[str, str]:
+def read_fasta_file(filename: str):
     """
     Read the given FASTA file and returns a dictionary of sequences.
 
